@@ -1,20 +1,13 @@
 # HICHEWBARON.github.io
-<html lang="en">
-  <div class="header">
-  <h1>Zach Gallagher's kickass website</h1>
-</div>
-<head>
-<title>Home</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
 </style>
 </head>
 <body>
-
+<div class="navbar">
+  <a href="#">https://www.youtube.com/watch?v=dQw4w9WgXcQ</a>
+  <a href="#"></a>
+  <a href="#">L</a>
+  <a href="#" class="right">Link</a>
+</div>
 <h1>Zach Gallagher's Website</h1>
 <p>JOY of programming fall semester 2024</p>
 
