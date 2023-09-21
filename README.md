@@ -1,9 +1,10 @@
 # HICHEWBARON.github.io
-<!DOCTYPE html>
-<!DOCTYPE html>
 <html lang="en">
+  <div class="header">
+  <h1>Zach Gallagher's kickass website</h1>
+</div>
 <head>
-<title>Page Title</title>
+<title>Home</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -15,7 +16,7 @@ body {
 <body>
 
 <h1>Zach Gallagher's Website</h1>
-<p>AThe JOY of programming fall semester 2024</p>
+<p>JOY of programming fall semester 2024</p>
 
 </body>
 </html>
