@@ -1,7 +1,14 @@
 # HICHEWBARON.github.io
-2 {
-    color: rgb(0, 232, 15);
-}  
-body {
-    background-color: rgb(97, 250, 255);
-}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CSS Basics</title>
+    </head>
+    <body>
+
+    <h1>Zachary Gallagher's totally kickass website</h1> 
+
+
+    </body>
+    </html>
